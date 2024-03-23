@@ -34,7 +34,7 @@ Execute the program using runserver command.
             <img src="/static/logo.png" height="100"width="540">
         </center>
         <br>
-        <table align="center" width="540">
+        <table align="center" width="540" cellspacing="2" cellpadding="4" border="5">
             <caption><b>SLOT TIMETABLE KEERTHANA V (212223220045)</b></caption>
             <tr align="center">
                 <th bgcolor="blue">Day/Time</th>
@@ -95,7 +95,7 @@ Execute the program using runserver command.
             <tr>
                 <td align="center">1.</td>
                 <td align="center">19AI414</td>
-                <td>Fundamentals of Web Application Development (FWAD)</td>
+                <td>FUNDAMENTALS OF WEB APPLICATION DEVLOPMENT (FWAD)</td>
             </tr>
             <tr>
                 <td align="center">2.</td>
@@ -128,7 +128,11 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<EX web-03.png>)
+
+![alt text](<EX WEB-3.png>)
+
+![alt text](<Ex web(1)-3.png>)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
